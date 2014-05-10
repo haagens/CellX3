@@ -1,5 +1,5 @@
 #include <QtGui>
-
+#include <QtMainWindow>
 class CellX3 : public CellX3MainFrame
 Q_OBJECT
 public
