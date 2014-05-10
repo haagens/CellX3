@@ -22,6 +22,7 @@ fileMenu = menuBar()->addMenu(tr("&File"));
 fileMenu->addAction(openAction);
 fileMenu->addSeparator();
 fileMenu->addAction(exitAction);
+setWindowTitle(tr("CellX3"));
 };
 void CellXMain::createMenus()
 {
