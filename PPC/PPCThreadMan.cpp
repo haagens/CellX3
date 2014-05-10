@@ -1,5 +1,5 @@
 #include "stdafx.h"
-#include "CPUThread.h"
+#include "CPUThread.hpp"
 
 reservation_struct reservation;
 
